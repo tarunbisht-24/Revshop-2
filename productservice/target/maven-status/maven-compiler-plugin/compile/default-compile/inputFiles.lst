@@ -1,0 +1,15 @@
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\aspect\LoggingAspect.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\config\AppConfig.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\controller\ProductController.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\controller\WebConfig.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\exceptions\GlobalExceptionHandler.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\model\Category.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\model\Product.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\model\Review.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\model\ReviewForBuyer.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\model\ReviewProducts.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\ProductserviceApplication.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\repository\CategoryRepository.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\repository\ProductRepository.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\service\CategoryService.java
+C:\Users\bisht\Downloads\RevshopP2\productservice\productservice\src\main\java\productservice\productservice\service\ProductService.java
